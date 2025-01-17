@@ -1,16 +1,39 @@
-## Hi there 👋
+![logo]()
+<a href="https://github.com/darshank">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=darshank&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+</a>
 
-<!--
-**1511Darshan/1511Darshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Spoken Languages 
+* English
+* French
 
-Here are some ideas to get you started:
+### Languages and Tools
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg) ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg) ![C](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg) ![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg) ![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg) ![bash](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Used
+![ArchLinux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch2.svg) 
+![Fedora](https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora2.svg)
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
+![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+![Android Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg)
+![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
+![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![Webstorm](https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm2.svg)
+![Vercel](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg)
+![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg) ![Firefox](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg) ![Chrome](https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg)
+
+### Friends & Collaborators & Contributed With
+#### No one I have god only that guided me and Helped me
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{darshank}/count.svg" /></p> 
+<br></div>
+<div align="center">  
+  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=darshank&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="Darshan K's github stats" /> 
+  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshank&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
+  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=darshank&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
+</div>
