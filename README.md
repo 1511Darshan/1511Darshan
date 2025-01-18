@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/76bee822-61a5-40f5-b742-9c53f6fca109)
 <a href="https://github.com/darshank">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=1511darshan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=darshank&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 
 ### Spoken Languages 
@@ -26,14 +26,25 @@
 ![Figma](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg) ![Firefox](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg) ![Chrome](https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg)
 
 ### Friends & Collaborators & Contributed With
-#### No one I have god only that guided me and Helped me
+#### No one I have, God only that guided me and helped me
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{darshank}/count.svg" /></p> 
 <br></div>
+
 <div align="center">  
   <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=darshank&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="Darshan K's github stats" /> 
   <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshank&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
   <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=darshank&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
 </div>
+
+---
+
+### Contact Me
+
+Feel free to reach out to me at any of the following platforms:
+
+<img src="https://visitcount.itsvg.in/api?id=Burhanverse&label=Profile%20Views&icon=6&color=0&pretty=true">
+
+<a href="darshank.ol1yd@aleeas.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a> <a href="t.me/ObedVortex"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"></a>
