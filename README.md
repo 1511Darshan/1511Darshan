@@ -1,6 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/76bee822-61a5-40f5-b742-9c53f6fca109)
-<a href="https://github.com/darshank">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=darshank&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+<a href="https://github.com/1511Darshan">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=1511Darshan&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 
 ### Spoken Languages 
@@ -45,6 +45,4 @@
 
 Feel free to reach out to me at any of the following platforms:
 
-<img src="https://visitcount.itsvg.in/api?id=darshank&label=Profile%20Views&icon=6&color=0&pretty=true">
-
-<a href="mailto:darshank@example.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a>  <a href="https://t.me/DarshanK"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram Badge"></a>
+<a href="mailto:darshank.ol1yd@aleeas.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a>  <a href="https://t.me/ObedVortex"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram Badge"></a>
