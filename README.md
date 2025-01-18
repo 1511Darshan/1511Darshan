@@ -45,6 +45,6 @@
 
 Feel free to reach out to me at any of the following platforms:
 
-<img src="https://visitcount.itsvg.in/api?id=Burhanverse&label=Profile%20Views&icon=6&color=0&pretty=true">
+<img src="https://visitcount.itsvg.in/api?id=darshank&label=Profile%20Views&icon=6&color=0&pretty=true">
 
-<a href="darshank.ol1yd@aleeas.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a> <a href="t.me/ObedVortex"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"></a>
+<a href="mailto:darshank@example.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a>  <a href="https://t.me/DarshanK"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram Badge"></a>
