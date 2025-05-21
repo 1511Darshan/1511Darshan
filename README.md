@@ -30,7 +30,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{darshank}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{1511darshan}/count.svg" /></p> 
 <br></div>
 
 <div align="center">  
