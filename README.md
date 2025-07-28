@@ -81,6 +81,11 @@ This site showcases my journey, skills, and work in the field of **Artificial In
   <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=1511Darshan&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
 </div>
 
+## 🎧 My Last.fm Recent Tracks
+
+![Last.fm](https://lastfm-cyan.vercel.app/api?user=Obed1511&count=2&width=525&bg_color=1e1e2e)
+
+
 ---
 
 ## 👁️ Visitors Count
