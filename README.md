@@ -1,5 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/76bee822-61a5-40f5-b742-9c53f6fca109)
 
+![Profile Views](https://komarev.com/ghpvc/?username=1511Darshan&color=2f855a&style=flat-square&label=Profile+Views&abbreviated=true)
+
+
 # 💼 Darshan K – Portfolio Website
 
 Welcome to my personal portfolio website!  
@@ -77,19 +80,14 @@ This site showcases my journey, skills, and work in the field of **Artificial In
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1511Darshan&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB)
 
+## 📈 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1511Darshan&bg_color=1e1e2e&color=b4befe&line=94e2d5&point=cba6f7&area=true&hide_border=true&radius=16)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ## 🎧 My Last.fm Recent Tracks
 
-![Last.fm](https://lastfm-cyan.vercel.app/api?user=Obed1511&count=2&width=525&bg_color=1e1e2e)
-
-
----
-
-## 👁️ Visitors Count
-
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/1511Darshan/count.svg" />
-</div>
+   ![Last.fm](https://lastfm-cyan.vercel.app/api?user=Obed1511&count=2&width=525&bg_color=1e1e2e)
 
 ---
 
