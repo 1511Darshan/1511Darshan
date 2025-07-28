@@ -75,11 +75,8 @@ This site showcases my journey, skills, and work in the field of **Artificial In
 
 ## 📊 GitHub Stats
 
-<div align="center">  
-  <img width="49%" height="80px" src="https://github-readme-stats.vercel.app/api?username=1511Darshan&show_icons=true&count_private=true&hide_border=true&title_color=8A0FE8&icon_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" alt="Darshan K's GitHub stats" /> 
-  <img width="41%" height="80px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1511Darshan&layout=compact&hide_border=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117" />
-  <img width="49%" height="80px" src="https://github-contributor-stats.vercel.app/api?username=1511Darshan&limit=5&theme=dark&combine_all_yearly_contributions=true&title_color=8A0FE8&text_color=8A0FE8&bg_color=0d1117&hide_border=true">
-</div>
+![GitHub Streak](https://streak-stats.azura.dev/?user=1511Darshan&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB)
+
 
 ## 🎧 My Last.fm Recent Tracks
 
