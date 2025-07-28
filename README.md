@@ -75,7 +75,7 @@ This site showcases my journey, skills, and work in the field of **Artificial In
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.azura.dev/?user=1511Darshan&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=1511Darshan&theme=catppuccin-mocha&hide_border=true&border_radius=10&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=525&stroke=17EBCC&fire=C691EB)
 
 
 ## 🎧 My Last.fm Recent Tracks
@@ -97,8 +97,7 @@ This site showcases my journey, skills, and work in the field of **Artificial In
 
 Feel free to reach out to me via:
 
-<a href="mailto:rushdarshan@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a>  
-<a href="https://t.me/ObedVortex"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg" alt="Telegram Badge"></a>  
+<a href="mailto:rushdarshan@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail Badge"></a>    
 <a href="https://linkedin.com/in/rush-darshan-k"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg"></a>
 
 ---
