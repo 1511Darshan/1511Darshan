@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=1511Darshan&color=2f855a&style=flat-square&label=Profile+Views&abbreviated=true)
 
 
+
 # 💼 Darshan K – Portfolio Website
 
 Welcome to my personal portfolio website!  
@@ -83,6 +84,11 @@ This site showcases my journey, skills, and work in the field of **Artificial In
 ## 📈 GitHub Activity Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1511Darshan&bg_color=1e1e2e&color=b4befe&line=94e2d5&point=cba6f7&area=true&hide_border=true&radius=16)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=6D8DE8&width=500&lines=🕒+Hackatime+Coding+Stats)](https://github.com/1511Darshan)
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=17430&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)
+
 
 
 ## 🎧 My Last.fm Recent Tracks
